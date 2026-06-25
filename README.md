@@ -201,11 +201,6 @@ npm start
 
 ---
 
-## Hosting on GitHub — Step by Step
-
-See [GITHUB_SETUP.md](./GITHUB_SETUP.md) for the complete guide.
-
----
 
 ## Roadmap
 
